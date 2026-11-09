@@ -1,16 +1,20 @@
-# ECM Reprogramming & Repair
+# TJ | Diesel & Motorcycle ECM Reprogramming and Repair
 
-I'm a generator service technician and mechanic focused on **engine control module (ECM) reprogramming, diagnostics, and repair**.
+I'm a service technician and mechanic focused on **engine control module (ECM) reprogramming, diagnostics, and repair** for diesel engines and motorcycles.
 
-## Technical focus
+## Diesel engines and generator controls
 
-- **ECM reprogramming** — Firmware updates, module configuration, and communication checks after programming.
-- **ECM diagnostics and repair** — Tracing fault codes and communication issues, checking power, grounds, wiring, and sensor inputs to isolate the fault, and verifying operation after repair.
-- **Service documentation** — Recording the original fault, the work performed, and the test results.
+My generator field work includes controller firmware updates and oil-pressure sensor testing and replacement. I use fault codes, sensor readings, and electrical checks to trace diesel control-system faults.
 
-## Field experience
+## Motorcycle diagnostics and repair
 
-My hands-on work includes generator controller firmware updates, oil-pressure sensor troubleshooting and replacement, preventive maintenance, and motorcycle repair.
+My motorcycle work includes mechanical repairs and electrical troubleshooting for starting and running problems. I check battery voltage, grounds, wiring, and sensor inputs to narrow down the fault.
+
+## ECM reprogramming and repair
+
+- **Reprogramming** — Verify that the firmware and configuration match the engine and module, then check communication after programming.
+- **Repair** — Isolate faults to the ECM or related circuits and verify engine operation after repair.
+- **Documentation** — Record the original fault, the work performed, and the test results.
 
 <!---
 Kingsxcomsxservicexrepair/Kingsxcomsxservicexrepair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
