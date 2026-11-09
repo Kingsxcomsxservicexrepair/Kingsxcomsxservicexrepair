@@ -1,4 +1,4 @@
-# TJ | ECM Reprogramming & Repair
+# ECM Reprogramming & Repair
 
 I'm a generator service technician and mechanic focused on **engine control module (ECM) reprogramming, diagnostics, and repair**.
 
