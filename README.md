@@ -1,4 +1,4 @@
-# TJ | Diesel & Motorcycle ECM Reprogramming and Repair
+# Diesel & Motorcycle ECM Reprogramming and Repair
 
 I'm a service technician and mechanic focused on **engine control module (ECM) reprogramming, diagnostics, and repair** for diesel engines and motorcycles.
 
